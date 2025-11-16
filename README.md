@@ -1,152 +1,97 @@
 ## Hi there 👋
-
-<!-- =============================== -->
-<!--        CUSTOM BANNER            -->
-<!-- =============================== -->
 <p align="center">
-  <!-- Replace this link with your custom banner later -->
-  <img src="https://via.placeholder.com/1000x250.png?text=TheRealVoltageLord+-+Pencil+Drawn+Banner" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/TherealVoltageLord/Assets/refs/heads/main/file_00000000b75471f4bfdf42d2230fed9d.png" width="100%" />
 </p>
 
-<!-- =============================== -->
-<!--       TYPING ANIMATION          -->
-<!-- =============================== -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7931A&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+TheRealVoltageLord!;Developer+%7C+Tech+Enthusiast+%7C+Creator;Welcome+To+My+GitHub+Profile!" alt="Typing Animation" />
+</h1>
+
+---
+
+# 🎧 My Favourite Song  
+### “Favourite Psycho – Qing Madi”
+
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?size=28&color=FF8C00&center=true&vCenter=true&width=900&lines=Welcome+to+TheRealVoltageLord's+GitHub!;Full-Stack+Developer+⚡;JavaScript+%7C+Python+%7C+React+%7C+Flutter;Building+Voltura+🔥;Coding+Every+Day+💻" 
-  />
+  <iframe src="https://open.spotify.com/embed/track/5296ZsW1OKY8qvvXaRc9ex?utm_source=generator&autoplay=1" width="80%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 </p>
 
 ---
 
-# 🎧 **My Current Vibe**
-### 🔥 Best Song: *Favourite Psycho — Qing Madi*
+# 🎤 My Best Artists
 
-> 🎵 Spotify widget:
-
-<p align="center">
-  <a href="https://open.spotify.com/track/PLACEHOLDER">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=default&bar_color_cover=true" />
-  </a>
-</p>
-
----
-
-# 🎤 **Favourite Artists**
-
-### ⭐ **Seyi Vibez – Some Hits**
-- Chance (Na Ham)
-- Deja Vu  
+### **Seyi Vibez — Top Songs**
+- C Major  
+- Billion Dollar Baby  
 - Kingdom  
-- Billion Dollar  
-- Hat-Trick
+- Deja Vu  
+- IQ  
 
-### ⭐ **Asake – Some Hits**
-- Lonely at the Top  
+### **Asake — Top Songs**
+- Lonely At The Top  
 - Peace Be Unto You (PBUY)  
+- Basquiat  
 - Sungba  
-- 2:30  
-- Terminator  
+- Organise  
 
 ---
 
-# ⚡ **Mood While Coding**
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+# 🧠 Tech Stack  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,react,flutter,html,css,nodejs,vscode,git,github" />
 </p>
 
 ---
 
-# 💻 **Tech Stack**
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge" />
-</p>
-
----
-
-# 🔥 About Me
-- ⚡ Fullstack Developer  
-- 🧠 Creator of **Voltunix**, Resume builder
-- 🎶 I code with music 24/7  
-- 🏆 Real Madrid fan  
-- 🔥 Love building modern UI/UX apps  
-
----
-
-# 🚀 Featured Projects
-
-> **Swipe Through Projects (Carousel Style)**  
-> *(Shows one at a time on mobile, rotates visually)*
-
-<p align="center">
-  <img src="https://github.com/TherealVoltageLord/Voltura/blob/main/demo.png" width="400" />
-  <br>
-  <i>Voltura – Social Media App</i>
-</p>
-
----
+# 🚀 Projects  
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **Voltura** | Social media platform for sharing content | HTML, CSS, JS, JSON Api , MongoDB |Reddit (For Caching)|
-| **Voltunix** | Single casino styled (Voltz Currency) game| JavaScript |
-| **Dare Generator API** | Generates random dares via API | Node.js |
-| **Voltage Bot** | WhatsApp bot with commands | Node.js (Baileys) |
-| **Tower Builder** | Physics-based stacking game | JS |
+| **Voltura** | Instagram-like web app for image sharing, comments & likes | HTML, CSS, JavaScript |
+| **Voltage Bot** | Powerful customizable WhatsApp bot with command system | Node.js |
+| **Game Hub** | Collection of multiplayer & single-player JS games | JavaScript, Canvas |
+| **Dare Generator API** | API that generates random dares | Node.js |
 
 ---
 
-# 🌌 Random Quote (Auto Changes)
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
+# 📱 Connect With Me  
 
----
+<p align="left">
 
-# 👁️ Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TherealVoltageLord&color=orange&style=flat-square" />
-</p>
+<a href="https://wa.me/2349015287753">
+  <img src="https://img.shields.io/badge/Message%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
----
+<a href="https://t.me/thereal_Voltagelord">
+  <img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 
-# 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TherealVoltageLord&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TherealVoltageLord&layout=compact&theme=tokyonight" height="170" />
-</p>
+<a href="https://x.com/voltage_lord0">
+  <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
----
-
-# 🔗 Connect With Me
-
-<p align="center">
-
-  <!-- WhatsApp DM -->
-  <a href="https://wa.me/PLACEHOLDER" target="_blank">
-    <img src="https://img.shields.io/badge/Message_on_WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge" />
-  </a>
-
-  <!-- Telegram -->
-  <a href="https://t.me/PLACEHOLDER" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=fff&style=for-the-badge" />
-  </a>
-
-  <!-- X (Twitter) -->
-  <a href="https://x.com/PLACEHOLDER" target="_blank">
-    <img src="https://img.shields.io/badge/Follow_on_X-000?logo=x&logoColor=fff&style=for-the-badge" />
-  </a>
-
-  <!-- WhatsApp Channel -->
-  <a href="https://whatsapp.com/channel/PLACEHOLDER" target="_blank">
-    <img src="https://img.shields.io/badge/Join_My_WhatsApp_Channel-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge" />
-  </a>
+<a href="https://whatsapp.com/channel/0029Vb6IVKB5a23uRnMxKt0m">
+  <img src="https://img.shields.io/badge/WhatsApp%20Channel-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
 </p>
 
 ---
 
-# ⭐ If You Like My Work, Consider Starring My Repos!
+# 🧩 Quote I Live By  
+> “Bad programmers worry about the code. Good programmers worry about data structures and their relationships.”  
+> — Linus Torvalds  
+
+---
+
+# 🧨 Currently Building  
+🔥 **Voltura** — a next-gen social media platform  
+
+# ⭐ Next Big Plan  
+⚡ **AI-powered WhatsApp bot** with dashboard UI  
+
+---
+
+# 👑 Thanks for Visiting  
+If you like my work, leave a ⭐ — it keeps me building more 😈⚡
